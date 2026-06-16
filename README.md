@@ -133,7 +133,7 @@ author   User @relation(fields: [authorId], references: [id], onDelete: Cascade,
          1                                   N
       (একজন)                           (অনেকগুলো)
 ```
-
+![](https://imgur.com/RwUwowg.png)
 **পড়ার নিয়ম:** একজন `User` → অনেকগুলো `Post` লিখতে পারে।  
 কিন্তু একটি `Post`-এর শুধুমাত্র **একজন** `author` থাকে।
 
