@@ -134,6 +134,7 @@ author   User @relation(fields: [authorId], references: [id], onDelete: Cascade,
       (একজন)                           (অনেকগুলো)
 ```
 ![](https://imgur.com/RwUwowg.png)
+##### visit---> https://prisma-editor.bahumaish.com/ --->see relational table diagram.
 **পড়ার নিয়ম:** একজন `User` → অনেকগুলো `Post` লিখতে পারে।  
 কিন্তু একটি `Post`-এর শুধুমাত্র **একজন** `author` থাকে।
 
