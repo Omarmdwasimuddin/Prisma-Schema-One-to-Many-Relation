@@ -17,7 +17,7 @@
 
 ---
 
-## 🏗️ পূর্ণ Schema
+## Schema
 
 ```prisma
 generator client {
