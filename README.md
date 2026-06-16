@@ -45,3 +45,5 @@ model Post {
 }
 ```
 ---
+
+![](https://imgur.com/RwUwowg.png)
